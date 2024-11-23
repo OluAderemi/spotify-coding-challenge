@@ -1,5 +1,5 @@
 # spotify-coding-challenge
-Searching Albums and Artists using Spotify API
+Searching Albums and Artists using Spotify API.
 
 ## Getting Started
 
